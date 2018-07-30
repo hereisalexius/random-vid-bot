@@ -4,7 +4,7 @@ Telegram Bot for sending random youtube videos(or links) with mityurl.com
 
 Few setps to make it run
 
-###1 Create Bot with BotFather
+### 1 Create Bot with BotFather
 
 1.1 Find @BotFather in your telegram app and connect to it
 
@@ -12,7 +12,7 @@ Few setps to make it run
 
 1.3 As result you will get USERNAME and TOKEN for your bot
 
-###2 Prepare our video set
+### 2 Prepare our video set
 
 2.1 Go to https://mityurl.com/
 
@@ -20,7 +20,7 @@ Few setps to make it run
 
 2.3 As result you wil get "short-link" to your list, use /r param in the end of link to make it "random"
 
-###3 Run
+### 3 Run
 
 3.1 Fill the arguments and run in command-line
 
