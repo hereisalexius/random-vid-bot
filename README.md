@@ -12,13 +12,13 @@ Few setps to make it run
 
 1.3 As result you will get USERNAME and TOKEN for your bot
 
-### 2 Prepare our video set
+### 2 Prepare your video set
 
 2.1 Go to https://mityurl.com/
 
-2.2 Enter link to yourl video-list to the field and press "Create List"
+2.2 Enter link to your youtube video-list to the field and press "Create List"
 
-2.3 As result you wil get "short-link" to your list, use /r param in the end of link to make it "random"
+2.3 As result you will get "short-link" to your list, use /r param in the end of link to make it "random"
 
 ### 3 Run
 
